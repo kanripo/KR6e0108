@@ -1,11 +1,10 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:16.143481
-#+TITLE: 華嚴原人論合解
-#+PROPERTY: CBETA_ID X58n1033
-#+PROPERTY: ID KR6e0108
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1033
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴原人論合解 / CBETA
+#+DATE: 2015-11-26 14:18:26.774289
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0108_X_000-0774a>
+* 目次
+* 卷
+** [[file:KR6e0108_001.txt][華嚴原人論合解 1]]
+** [[file:KR6e0108_002.txt][華嚴原人論合解 2]]
